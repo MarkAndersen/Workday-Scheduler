@@ -17,10 +17,10 @@ The purpose of this exercise was to modify and add to a starter code in order to
 ![Input Objective](./assets/images/2.png)
 
 ### Save to Local Storage
-![Saved To Local Storage](./assets/images/3.png)
+![Saved To Local Storage](./assets/images/3.PNG)
 
 ### Persist Through Refresh
-![Persist Through Refresh](./assets/images/4.png)
+![Persist Through Refresh](./assets/images/4.PNG)
 
 ## Final Thoughts
 
